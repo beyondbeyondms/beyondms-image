@@ -5,6 +5,7 @@ BASE_DIR = Path(__file__).resolve().parent
 ROOTS = [
     ("Character", True),  # (folder name, has category subfolders)
     ("Mob", False),
+    ("Item", True),
 ]
 
 entries = []
