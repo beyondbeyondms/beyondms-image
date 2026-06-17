@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="8840010.img">
+    <imgdir name="attack2">
+        <imgdir name="info">
+            <imgdir name="hit">
+                <uol name="0" value="../../../../8840000/attack3/info/hit/0" />
+                <uol name="1" value="../../../../8840000/attack3/info/hit/1" />
+                <uol name="2" value="../../../../8840000/attack3/info/hit/2" />
+                <uol name="3" value="../../../../8840000/attack3/info/hit/3" />
+                <uol name="4" value="../../../../8840000/attack3/info/hit/4" />
+                <uol name="5" value="../../../../8840000/attack3/info/hit/5" />
+                <uol name="6" value="../../../../8840000/attack3/info/hit/6" />
+                <uol name="7" value="../../../../8840000/attack3/info/hit/7" />
+            </imgdir>
+            <imgdir name="range">
+                <vector name="lt" x="-850" y="-285" />
+                <vector name="rb" x="20" y="-55" />
+            </imgdir>
+            <int name="attackAfter" value="2570" />
+            <imgdir name="effect">
+                <uol name="0" value="../../../../8840000/attack3/info/effect/0" />
+                <uol name="1" value="../../../../8840000/attack3/info/effect/1" />
+                <uol name="2" value="../../../../8840000/attack3/info/effect/2" />
+                <uol name="3" value="../../../../8840000/attack3/info/effect/3" />
+                <uol name="4" value="../../../../8840000/attack3/info/effect/4" />
+                <uol name="5" value="../../../../8840000/attack3/info/effect/5" />
+                <uol name="6" value="../../../../8840000/attack3/info/effect/6" />
+                <uol name="7" value="../../../../8840000/attack3/info/effect/7" />
+                <uol name="8" value="../../../../8840000/attack3/info/effect/8" />
+                <uol name="9" value="../../../../8840000/attack3/info/effect/9" />
+                <uol name="10" value="../../../../8840000/attack3/info/effect/10" />
+                <uol name="11" value="../../../../8840000/attack3/info/effect/11" />
+                <uol name="12" value="../../../../8840000/attack3/info/effect/12" />
+                <uol name="13" value="../../../../8840000/attack3/info/effect/13" />
+                <uol name="14" value="../../../../8840000/attack3/info/effect/14" />
+                <uol name="15" value="../../../../8840000/attack3/info/effect/15" />
+                <uol name="16" value="../../../../8840000/attack3/info/effect/16" />
+                <uol name="17" value="../../../../8840000/attack3/info/effect/17" />
+                <uol name="18" value="../../../../8840000/attack3/info/effect/18" />
+                <uol name="19" value="../../../../8840000/attack3/info/effect/19" />
+            </imgdir>
+            <int name="deadlyAttack" value="1" />
+            <int name="magic" value="1" />
+            <int name="attackRatio" value="100" />
+            <int name="conMP" value="100" />
+            <int name="disease" value="123" />
+            <int name="level" value="26" />
+            <int name="type" value="0" />
+        </imgdir>
+        <uol name="0" value="../../8840000/attack3/0" />
+        <uol name="1" value="../../8840000/attack3/1" />
+        <uol name="2" value="../../8840000/attack3/2" />
+        <uol name="3" value="../../8840000/attack3/3" />
+        <uol name="4" value="../../8840000/attack3/4" />
+        <uol name="5" value="../../8840000/attack3/5" />
+        <uol name="6" value="../../8840000/attack3/6" />
+        <uol name="7" value="../../8840000/attack3/7" />
+        <uol name="8" value="../../8840000/attack3/8" />
+        <uol name="9" value="../../8840000/attack3/9" />
+        <uol name="10" value="../../8840000/attack3/10" />
+        <uol name="11" value="../../8840000/attack3/11" />
+        <uol name="12" value="../../8840000/attack3/12" />
+        <uol name="13" value="../../8840000/attack3/13" />
+        <uol name="14" value="../../8840000/attack3/14" />
+        <uol name="15" value="../../8840000/attack3/15" />
+        <uol name="16" value="../../8840000/attack3/16" />
+        <uol name="17" value="../../8840000/attack3/17" />
+        <uol name="18" value="../../8840000/stand/0" />
+        <uol name="19" value="../../8840000/stand/1" />
+        <uol name="20" value="../../8840000/stand/2" />
+        <uol name="21" value="../../8840000/stand/3" />
+        <uol name="22" value="../../8840000/stand/4" />
+        <uol name="23" value="../../8840000/stand/5" />
+    </imgdir>
+    <imgdir name="attack3">
+        <imgdir name="info">
+            <imgdir name="hit">
+                <uol name="0" value="../../../../8840000/attack4/info/hit/0" />
+                <uol name="1" value="../../../../8840000/attack4/info/hit/1" />
+                <uol name="2" value="../../../../8840000/attack4/info/hit/2" />
+                <uol name="3" value="../../../../8840000/attack4/info/hit/3" />
+                <uol name="4" value="../../../../8840000/attack4/info/hit/4" />
+                <uol name="5" value="../../../../8840000/attack4/info/hit/5" />
+                <uol name="6" value="../../../../8840000/attack4/info/hit/6" />
+            </imgdir>
+            <imgdir name="range">
+                <vector name="lt" x="-508" y="-238" />
+                <vector name="rb" x="-184" y="0" />
+            </imgdir>
+            <int name="attackAfter" value="980" />
+            <int name="type" value="0" />
+            <int name="conMP" value="100" />
+            <int name="attackRatio" value="46" />
+            <int name="disease" value="126" />
+            <int name="level" value="1" />
+        </imgdir>
+        <uol name="0" value="../../8840000/attack4/0" />
+        <uol name="1" value="../../8840000/attack4/1" />
+        <uol name="2" value="../../8840000/attack4/2" />
+        <uol name="3" value="../../8840000/attack4/3" />
+        <uol name="4" value="../../8840000/attack4/4" />
+        <uol name="5" value="../../8840000/attack4/5" />
+        <uol name="6" value="../../8840000/attack4/6" />
+        <uol name="7" value="../../8840000/attack4/7" />
+        <uol name="8" value="../../8840000/attack4/8" />
+        <uol name="9" value="../../8840000/attack4/9" />
+        <uol name="10" value="../../8840000/attack4/10" />
+        <uol name="11" value="../../8840000/attack4/11" />
+        <uol name="12" value="../../8840000/attack4/12" />
+        <uol name="13" value="../../8840000/attack4/13" />
+        <uol name="14" value="../../8840000/attack4/14" />
+        <uol name="15" value="../../8840000/attack4/15" />
+        <uol name="16" value="../../8840000/stand/0" />
+        <uol name="17" value="../../8840000/stand/1" />
+        <uol name="18" value="../../8840000/stand/2" />
+        <uol name="19" value="../../8840000/stand/3" />
+        <uol name="20" value="../../8840000/stand/4" />
+        <uol name="21" value="../../8840000/stand/5" />
+    </imgdir>
+    <imgdir name="attack4">
+        <imgdir name="info">
+            <int name="type" value="3" />
+            <imgdir name="range">
+                <vector name="lt" x="-40" y="-300" />
+                <vector name="rb" x="40" y="0" />
+                <int name="start" value="-60" />
+                <int name="areaCount" value="120" />
+                <int name="attackCount" value="25" />
+            </imgdir>
+            <int name="PADamage" value="29999" />
+            <int name="attackAfter" value="3440" />
+            <int name="effectAfter" value="80" />
+            <imgdir name="areaWarning">
+                <uol name="0" value="../../../../8840000/attack6/info/areaWarning/0" />
+                <uol name="1" value="../../../../8840000/attack6/info/areaWarning/1" />
+                <uol name="2" value="../../../../8840000/attack6/info/areaWarning/2" />
+                <uol name="3" value="../../../../8840000/attack6/info/areaWarning/3" />
+                <uol name="4" value="../../../../8840000/attack6/info/areaWarning/4" />
+                <uol name="5" value="../../../../8840000/attack6/info/areaWarning/5" />
+                <uol name="6" value="../../../../8840000/attack6/info/areaWarning/6" />
+                <uol name="7" value="../../../../8840000/attack6/info/areaWarning/7" />
+                <uol name="8" value="../../../../8840000/attack6/info/areaWarning/8" />
+                <uol name="9" value="../../../../8840000/attack6/info/areaWarning/9" />
+                <uol name="13" value="../../../../8840000/attack6/info/areaWarning/13" />
+                <uol name="14" value="../../../../8840000/attack6/info/areaWarning/14" />
+                <uol name="15" value="../../../../8840000/attack6/info/areaWarning/15" />
+                <uol name="16" value="../../../../8840000/attack6/info/areaWarning/16" />
+                <uol name="17" value="../../../../8840000/attack6/info/areaWarning/17" />
+                <uol name="18" value="../../../../8840000/attack6/info/areaWarning/18" />
+                <uol name="19" value="../../../../8840000/attack6/info/areaWarning/19" />
+                <uol name="20" value="../../../../8840000/attack6/info/areaWarning/20" />
+                <uol name="21" value="../../../../8840000/attack6/info/areaWarning/21" />
+                <uol name="22" value="../../../../8840000/attack6/info/areaWarning/22" />
+                <uol name="23" value="../../../../8840000/attack6/info/areaWarning/23" />
+                <uol name="24" value="../../../../8840000/attack6/info/areaWarning/24" />
+                <uol name="25" value="../../../../8840000/attack6/info/areaWarning/25" />
+                <uol name="26" value="../../../../8840000/attack6/info/areaWarning/26" />
+                <uol name="10" value="../../../../8840000/attack6/info/areaWarning/10" />
+                <uol name="11" value="../../../../8840000/attack6/info/areaWarning/11" />
+                <uol name="12" value="../../../../8840000/attack6/info/areaWarning/12" />
+            </imgdir>
+            <int name="conMP" value="5" />
+        </imgdir>
+        <uol name="0" value="../../8840000/attack6/0" />
+        <uol name="1" value="../../8840000/attack6/1" />
+        <uol name="2" value="../../8840000/attack6/2" />
+        <uol name="3" value="../../8840000/attack6/3" />
+        <uol name="4" value="../../8840000/attack6/4" />
+        <uol name="5" value="../../8840000/attack6/5" />
+        <uol name="6" value="../../8840000/attack6/6" />
+        <uol name="7" value="../../8840000/attack6/7" />
+        <uol name="8" value="../../8840000/attack6/8" />
+        <uol name="9" value="../../8840000/attack6/9" />
+        <uol name="10" value="../../8840000/attack6/10" />
+        <uol name="11" value="../../8840000/attack6/11" />
+        <uol name="12" value="../../8840000/attack6/12" />
+        <uol name="13" value="../../8840000/attack6/13" />
+        <uol name="14" value="../../8840000/attack6/14" />
+        <uol name="15" value="../../8840000/attack6/15" />
+        <uol name="16" value="../../8840000/stand/0" />
+        <uol name="17" value="../../8840000/stand/1" />
+        <uol name="18" value="../../8840000/stand/2" />
+        <uol name="19" value="../../8840000/stand/3" />
+        <uol name="20" value="../../8840000/stand/4" />
+        <uol name="21" value="../../8840000/stand/5" />
+        <uol name="22" value="../../8840000/stand/0" />
+        <uol name="23" value="../../8840000/stand/1" />
+        <uol name="24" value="../../8840000/stand/2" />
+        <uol name="25" value="../../8840000/stand/3" />
+        <uol name="26" value="../../8840000/stand/4" />
+        <uol name="27" value="../../8840000/stand/5" />
+    </imgdir>
+    <imgdir name="info">
+        <int name="acc" value="1500" />
+        <imgdir name="ban">
+            <string name="banMsg" value="You are expelled to other place because of Von Leon's power." />
+            <imgdir name="banMap">
+                <imgdir name="0">
+                    <int name="field" value="211070101" />
+                    <string name="portal" value="sp" />
+                </imgdir>
+            </imgdir>
+        </imgdir>
+        <int name="bodyAttack" value="0" />
+        <int name="boss" value="1" />
+        <int name="category" value="1" />
+        <string name="elemAttr" value="F2I2H3S3L3" />
+        <int name="eva" value="60" />
+        <int name="exp" value="0" />
+        <int name="explosiveReward" value="1" />
+        <int name="firstAttack" value="1" />
+        <float name="fs" value="10.0" />
+        <int name="ignoreFieldOut" value="1" />
+        <int name="level" value="180" />
+        <int name="maxHP" value="1000000000" />
+        <int name="maxMP" value="50000" />
+        <string name="mobType" value="7N" />
+        <int name="pushed" value="99999999" />
+        <imgdir name="skill">
+            <imgdir name="0">
+                <int name="action" value="1" />
+                <int name="effectAfter" value="0" />
+                <int name="level" value="12" />
+                <int name="skill" value="129" />
+                <int name="skillAfter" value="1200" />
+            </imgdir>
+            <imgdir name="1">
+                <int name="skill" value="200" />
+                <int name="action" value="2" />
+                <int name="level" value="213" />
+                <int name="effectAfter" value="0" />
+                <int name="skillAfter" value="1200" />
+            </imgdir>
+            <imgdir name="2">
+                <int name="action" value="3" />
+                <int name="level" value="2" />
+                <int name="skill" value="170" />
+                <int name="skillAfter" value="4000" />
+            </imgdir>
+        </imgdir>
+        <int name="speed" value="-40" />
+        <int name="summonType" value="1" />
+        <int name="hpRecovery" value="100000" />
+        <int name="mpRecovery" value="1000" />
+        <int name="MADamage" value="1400" />
+        <int name="MDDamage" value="1900" />
+        <int name="PADamage" value="1450" />
+        <int name="PDDamage" value="1700" />
+        <int name="hpTagBgcolor" value="2" />
+        <int name="hpTagColor" value="1" />
+    </imgdir>
+    <imgdir name="move">
+        <uol name="0" value="../../8840000/move/0" />
+        <uol name="1" value="../../8840000/move/1" />
+        <uol name="2" value="../../8840000/move/2" />
+        <uol name="3" value="../../8840000/move/3" />
+        <uol name="4" value="../../8840000/move/4" />
+        <uol name="5" value="../../8840000/move/5" />
+        <uol name="6" value="../../8840000/move/6" />
+        <uol name="7" value="../../8840000/move/7" />
+        <uol name="8" value="../../8840000/move/8" />
+        <uol name="9" value="../../8840000/move/9" />
+        <uol name="10" value="../../8840000/move/10" />
+        <uol name="11" value="../../8840000/move/11" />
+        <uol name="12" value="../../8840000/move/12" />
+        <uol name="13" value="../../8840000/move/13" />
+        <uol name="14" value="../../8840000/move/14" />
+        <uol name="15" value="../../8840000/move/15" />
+        <uol name="16" value="../../8840000/move/16" />
+        <uol name="17" value="../../8840000/move/17" />
+    </imgdir>
+    <imgdir name="skill1">
+        <uol name="0" value="../../8840000/skill1/0" />
+        <uol name="1" value="../../8840000/skill1/1" />
+        <uol name="2" value="../../8840000/skill1/2" />
+        <uol name="3" value="../../8840000/skill1/3" />
+        <uol name="4" value="../../8840000/skill1/4" />
+        <uol name="5" value="../../8840000/skill1/5" />
+        <uol name="6" value="../../8840000/skill1/6" />
+        <uol name="7" value="../../8840000/skill1/7" />
+        <uol name="8" value="../../8840000/skill1/8" />
+        <uol name="9" value="../../8840000/skill1/9" />
+        <uol name="10" value="../../8840000/skill1/10" />
+        <uol name="11" value="../../8840000/skill1/11" />
+        <uol name="12" value="../../8840000/skill1/12" />
+        <uol name="13" value="../../8840000/skill1/13" />
+        <uol name="14" value="../../8840000/skill1/14" />
+        <uol name="15" value="../../8840000/stand/0" />
+        <uol name="16" value="../../8840000/stand/1" />
+        <uol name="17" value="../../8840000/stand/2" />
+        <uol name="18" value="../../8840000/stand/3" />
+        <uol name="19" value="../../8840000/stand/4" />
+        <uol name="20" value="../../8840000/stand/5" />
+    </imgdir>
+    <imgdir name="skill2">
+        <uol name="0" value="../../8840000/skill2/0" />
+        <uol name="1" value="../../8840000/skill2/1" />
+        <uol name="2" value="../../8840000/skill2/2" />
+        <uol name="3" value="../../8840000/skill2/3" />
+        <uol name="4" value="../../8840000/skill2/4" />
+        <uol name="5" value="../../8840000/skill2/5" />
+        <uol name="6" value="../../8840000/skill2/6" />
+        <uol name="7" value="../../8840000/skill2/7" />
+        <uol name="8" value="../../8840000/skill2/8" />
+        <uol name="9" value="../../8840000/skill2/9" />
+        <uol name="10" value="../../8840000/skill2/10" />
+        <uol name="11" value="../../8840000/skill2/11" />
+        <uol name="12" value="../../8840000/skill2/12" />
+        <uol name="13" value="../../8840000/skill2/13" />
+        <uol name="14" value="../../8840000/skill2/14" />
+        <uol name="15" value="../../8840000/skill2/15" />
+        <uol name="16" value="../../8840000/stand/0" />
+        <uol name="17" value="../../8840000/stand/1" />
+        <uol name="18" value="../../8840000/stand/2" />
+        <uol name="19" value="../../8840000/stand/3" />
+        <uol name="20" value="../../8840000/stand/4" />
+        <uol name="21" value="../../8840000/stand/5" />
+    </imgdir>
+    <imgdir name="stand">
+        <uol name="0" value="../../8840000/stand/0" />
+        <uol name="1" value="../../8840000/stand/1" />
+        <uol name="2" value="../../8840000/stand/2" />
+        <uol name="3" value="../../8840000/stand/3" />
+        <uol name="4" value="../../8840000/stand/4" />
+        <uol name="5" value="../../8840000/stand/5" />
+    </imgdir>
+    <imgdir name="die1">
+        <uol name="0" value="../../8840000/skill6/0" />
+        <uol name="1" value="../../8840000/skill6/1" />
+        <uol name="2" value="../../8840000/skill6/2" />
+        <uol name="3" value="../../8840000/skill6/3" />
+        <uol name="4" value="../../8840000/skill6/4" />
+        <uol name="5" value="../../8840000/skill6/5" />
+        <uol name="6" value="../../8840000/skill6/6" />
+        <uol name="7" value="../../8840000/skill6/7" />
+        <uol name="8" value="../../8840000/skill6/8" />
+        <uol name="9" value="../../8840000/skill6/9" />
+        <uol name="10" value="../../8840000/skill6/10" />
+        <uol name="11" value="../../8840000/skill6/11" />
+        <uol name="12" value="../../8840000/skill6/12" />
+        <uol name="13" value="../../8840000/skill6/13" />
+        <uol name="14" value="../../8840000/skill6/14" />
+    </imgdir>
+    <imgdir name="die2">
+        <uol name="0" value="../../8840000/skill6/0" />
+        <uol name="1" value="../../8840000/skill6/1" />
+        <uol name="2" value="../../8840000/skill6/2" />
+        <uol name="3" value="../../8840000/skill6/3" />
+        <uol name="4" value="../../8840000/skill6/4" />
+        <uol name="5" value="../../8840000/skill6/5" />
+        <uol name="6" value="../../8840000/skill6/6" />
+        <uol name="7" value="../../8840000/skill6/7" />
+        <uol name="8" value="../../8840000/skill6/8" />
+        <uol name="9" value="../../8840000/skill6/9" />
+        <uol name="10" value="../../8840000/skill6/10" />
+        <uol name="11" value="../../8840000/skill6/11" />
+        <uol name="12" value="../../8840000/skill6/12" />
+        <uol name="13" value="../../8840000/skill6/13" />
+        <uol name="14" value="../../8840000/skill6/14" />
+    </imgdir>
+    <imgdir name="skill3">
+        <uol name="0" value="../../8840000/stand/0" />
+    </imgdir>
+    <imgdir name="attack1">
+        <imgdir name="info">
+            <imgdir name="hit">
+                <int name="attach" value="1" />
+                <uol name="0" value="../../../../8840000/attack1/info/hit/0" />
+                <uol name="1" value="../../../../8840000/attack1/info/hit/1" />
+                <uol name="2" value="../../../../8840000/attack1/info/hit/2" />
+                <uol name="3" value="../../../../8840000/attack1/info/hit/3" />
+                <uol name="4" value="../../../../8840000/attack1/info/hit/4" />
+                <uol name="5" value="../../../../8840000/attack1/info/hit/5" />
+            </imgdir>
+            <imgdir name="range">
+                <vector name="lt" x="-450" y="-288" />
+                <vector name="rb" x="326" y="0" />
+            </imgdir>
+            <int name="attackAfter" value="1650" />
+            <int name="attackRatio" value="80" />
+            <int name="conMP" value="1" />
+            <int name="type" value="0" />
+            <int name="disease" value="132" />
+            <int name="level" value="9" />
+        </imgdir>
+        <uol name="0" value="../../8840000/attack1/0" />
+        <uol name="1" value="../../8840000/attack1/1" />
+        <uol name="2" value="../../8840000/attack1/2" />
+        <uol name="3" value="../../8840000/attack1/3" />
+        <uol name="4" value="../../8840000/attack1/4" />
+        <uol name="5" value="../../8840000/attack1/5" />
+        <uol name="6" value="../../8840000/attack1/6" />
+        <uol name="7" value="../../8840000/attack1/7" />
+        <uol name="8" value="../../8840000/attack1/8" />
+        <uol name="9" value="../../8840000/attack1/9" />
+        <uol name="10" value="../../8840000/attack1/10" />
+        <uol name="11" value="../../8840000/attack1/11" />
+        <uol name="12" value="../../8840000/attack1/12" />
+        <uol name="13" value="../../8840000/attack1/13" />
+        <uol name="14" value="../../8840000/attack1/14" />
+        <uol name="15" value="../../8840000/attack1/15" />
+        <uol name="16" value="../../8840000/attack1/16" />
+        <uol name="17" value="../../8840000/stand/0" />
+        <uol name="18" value="../../8840000/stand/1" />
+        <uol name="19" value="../../8840000/stand/2" />
+        <uol name="20" value="../../8840000/stand/3" />
+        <uol name="21" value="../../8840000/stand/4" />
+        <uol name="22" value="../../8840000/stand/5" />
+    </imgdir>
+    <imgdir name="hit1">
+        <canvas name="0" width="554" height="506">
+            <int name="delay" value="0" />
+            <vector name="head" x="-89" y="-335" />
+            <vector name="origin" x="298" y="505" />
+        </canvas>
+    </imgdir>
+</imgdir>
